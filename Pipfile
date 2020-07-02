@@ -10,6 +10,7 @@ flake8 = "*"
 xlrd = "*"
 pandas = "*"
 aiohttp = "*"
+requests = "*"
 
 [requires]
 python_version = "3.8"
