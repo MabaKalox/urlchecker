@@ -1,5 +1,5 @@
 if __name__ == "__main__":
-    with open('output.json', 'r') as file:
+    with open('english_res.json', 'r') as file:
         import json
         data = json.loads(file.read())
 
