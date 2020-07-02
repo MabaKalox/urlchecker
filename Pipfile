@@ -11,6 +11,7 @@ xlrd = "*"
 pandas = "*"
 aiohttp = "*"
 requests = "*"
+python-dotenv = "*"
 
 [requires]
 python_version = "3.8"
